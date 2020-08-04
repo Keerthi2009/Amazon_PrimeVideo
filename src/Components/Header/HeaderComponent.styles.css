@@ -1,0 +1,7 @@
+#root .bg-light {
+    background: #0f171e !important;
+    padding :16px 45px;
+}
+.navbar-brand img {
+    width: 100px;
+}

@@ -1,0 +1,15 @@
+.signupComponent .signuplogo{
+    display: block;
+    width: 150px;
+    margin: 0 auto;
+    text-align: center;
+}
+.form-group .btn-warning{
+    background: #f0c14b;
+    border-color: #a88734 #9c7e31 #846a29;
+    color:#111;
+    border-radius: 5px;
+    border: none;
+    padding: 4px;
+    
+}
